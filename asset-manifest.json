@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Mars-Weather/static/css/main.4bd02369.chunk.css",
+    "main.js": "/Mars-Weather/static/js/main.cdc88112.chunk.js",
+    "main.js.map": "/Mars-Weather/static/js/main.cdc88112.chunk.js.map",
+    "runtime-main.js": "/Mars-Weather/static/js/runtime-main.5ecc32e2.js",
+    "runtime-main.js.map": "/Mars-Weather/static/js/runtime-main.5ecc32e2.js.map",
+    "static/js/2.2defcf93.chunk.js": "/Mars-Weather/static/js/2.2defcf93.chunk.js",
+    "static/js/2.2defcf93.chunk.js.map": "/Mars-Weather/static/js/2.2defcf93.chunk.js.map",
+    "index.html": "/Mars-Weather/index.html",
+    "precache-manifest.6255076a1ae920afe6945dbf769cf4da.js": "/Mars-Weather/precache-manifest.6255076a1ae920afe6945dbf769cf4da.js",
+    "service-worker.js": "/Mars-Weather/service-worker.js",
+    "static/css/main.4bd02369.chunk.css.map": "/Mars-Weather/static/css/main.4bd02369.chunk.css.map",
+    "static/js/2.2defcf93.chunk.js.LICENSE.txt": "/Mars-Weather/static/js/2.2defcf93.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Mars-Weather/static/media/christian-lischka-taz4Xc32UCs-unsplash.8f76b294.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ecc32e2.js",
+    "static/js/2.2defcf93.chunk.js",
+    "static/css/main.4bd02369.chunk.css",
+    "static/js/main.cdc88112.chunk.js"
+  ]
+}
