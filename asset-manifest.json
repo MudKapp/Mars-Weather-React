@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Mars-Weather-React/static/css/main.d5f9cc20.chunk.css",
-    "main.js": "/Mars-Weather-React/static/js/main.32a8a21f.chunk.js",
-    "main.js.map": "/Mars-Weather-React/static/js/main.32a8a21f.chunk.js.map",
-    "runtime-main.js": "/Mars-Weather-React/static/js/runtime-main.63717d4e.js",
-    "runtime-main.js.map": "/Mars-Weather-React/static/js/runtime-main.63717d4e.js.map",
-    "static/js/2.2defcf93.chunk.js": "/Mars-Weather-React/static/js/2.2defcf93.chunk.js",
-    "static/js/2.2defcf93.chunk.js.map": "/Mars-Weather-React/static/js/2.2defcf93.chunk.js.map",
-    "index.html": "/Mars-Weather-React/index.html",
-    "precache-manifest.816d65f9763fdc982dcfd3bd70c3b582.js": "/Mars-Weather-React/precache-manifest.816d65f9763fdc982dcfd3bd70c3b582.js",
-    "service-worker.js": "/Mars-Weather-React/service-worker.js",
-    "static/css/main.d5f9cc20.chunk.css.map": "/Mars-Weather-React/static/css/main.d5f9cc20.chunk.css.map",
-    "static/js/2.2defcf93.chunk.js.LICENSE.txt": "/Mars-Weather-React/static/js/2.2defcf93.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/Mars-Weather-React/static/media/christian-lischka-taz4Xc32UCs-unsplash.8f76b294.jpg"
+    "main.css": "./static/css/main.94b15db7.chunk.css",
+    "main.js": "./static/js/main.95a8942e.chunk.js",
+    "main.js.map": "./static/js/main.95a8942e.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.d56d2436.js",
+    "runtime-main.js.map": "./static/js/runtime-main.d56d2436.js.map",
+    "static/js/2.2defcf93.chunk.js": "./static/js/2.2defcf93.chunk.js",
+    "static/js/2.2defcf93.chunk.js.map": "./static/js/2.2defcf93.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.d4578b904e848bc3e2dc082795f6b87a.js": "./precache-manifest.d4578b904e848bc3e2dc082795f6b87a.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.94b15db7.chunk.css.map": "./static/css/main.94b15db7.chunk.css.map",
+    "static/js/2.2defcf93.chunk.js.LICENSE.txt": "./static/js/2.2defcf93.chunk.js.LICENSE.txt",
+    "static/media/index.css": "./static/media/christian-lischka-taz4Xc32UCs-unsplash.8f76b294.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.63717d4e.js",
+    "static/js/runtime-main.d56d2436.js",
     "static/js/2.2defcf93.chunk.js",
-    "static/css/main.d5f9cc20.chunk.css",
-    "static/js/main.32a8a21f.chunk.js"
+    "static/css/main.94b15db7.chunk.css",
+    "static/js/main.95a8942e.chunk.js"
   ]
 }
